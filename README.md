@@ -12,11 +12,11 @@ The code itself doesn't need modification to work, but you could try modify it h
 
 # Classes
 
-Balls() with size, color, filled parameters
-Polygons() with size, sides, color, filled parameters
-Spiral() with Balls() and Polygons() as its super class and an additional spiral parameters
-Stairs() with Balls() and Polygons() as its super class
-Firework() with thickness, color parameters
+Balls() with size, color, filled parameters.
+Polygons() with size, sides, color, filled parameters.
+Spiral() with Balls() and Polygons() as its super class and an additional spiral parameters.
+Stairs() with Balls() and Polygons() as its super class.
+Firework() with thickness, color parameters.
 
 # Notes
 
