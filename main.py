@@ -1,5 +1,9 @@
-import setups
+"""
+Main part of the code that runs everything
+"""
+
 import turtle
+import setups
 
 setups.setup("fastest")
 
