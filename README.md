@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1e16c105-9231-41b3-ae41-1ac73b0892fd)# Instabstract
+![image]([https://github.com/user-attachments/assets/1e16c105-9231-41b3-ae41-1ac73b0892fd](https://cdn.discordapp.com/attachments/614718695452966934/1318192317244379257/image.png?ex=67616dc3&is=67601c43&hm=5ba07e01bf7c61331876a17ea95a177657d7c1ee4f28f970b9ec36d3fc4c2b2b&))# UML For Instabstract
 
 Instabstract is an Object Oriented Program that aims to create "modern art," If you've seen the internet recently, modern art has been filled to the brim with slop content, for example: Concetto spaziale, Attesse by Lucio Fontana, selling at a peak of 1.2 million US Dollar, which to a normal person, is extremely absurb and nonsensical. So, I had a thought, if these so-called artist could do it, how come--a normal person like me--couldn't.
 
@@ -17,8 +17,6 @@ The program is aim to revolutionize the "modern art" industry by being able to c
 Here is my YouTube Link to the demo; -------------
 
 # Project Design
-
-UML Design : ![alt text]([http://url/to/img.png](https://www.uml-diagrams.org/thumbnails/library-domain-uml-class-diagram-example.png))
 
 The Balls and Polygon class are just the base shape that could be draw directly, or be used as a superclass for other classes. Spiral, using Polygon as it's superclass, is a class that is made for creating Balls and Polygons into patterns of spirals; using Trigonometry to calculate the distance and angle of each shapes drawn. And Firework class represents each firework that could be draw with lines created by turtle, implementing similar trigonometry functions with Spiral class.
 
