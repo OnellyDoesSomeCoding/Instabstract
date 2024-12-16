@@ -15,7 +15,7 @@ This is the start of my project, Instabstract with 3 options to pick from. Imagi
 
 The program is aim to revolutionize the "modern art" industry by being able to create abstract pieces of art by just simple buttons. The expected outputs would be a finished picture, created by turtle, and consisting of many shapes and colors. To use the program, just press keys on your keyboard, such as; R key for a random pattern to be generated, using your choice of colors and shapes.
 
-Here is my YouTube Link to the demo; -------------
+Here is my YouTube Link to the demo; ![Demo](https://youtu.be/Whmd-w7tXQk)
 
 # Project Design
 
@@ -23,7 +23,7 @@ The Balls and Polygon class are just the base shape that could be draw directly,
 
 I've extended a previous assignment, Week 12. It is what pathfinded my project and to make the old assignment better by implementing all sorts of other functions, like event-based programming for each of the choices, and also implementing other turtle functions that I've never used in other assignments.
 
-The code works by having normal subroutine functions to get an return values to be assigned into the classes of shapes and patterns before running them directly in the subroutine functions, by this you could create multiple randomly generated shapes from the classes. I think 90% of my code is working completely, there are some flaws, like; sometimes when you assign sides and colors to Polygons, it might not draw at all. By default, if you only generate random colored shapes the code will work normally, at least to my concern.
+The code works by having normal subroutine functions to get an return values to be assigned into the classes of shapes and patterns before running them directly in the subroutine functions, by this you could create multiple randomly generated shapes from the classes. I think 90% of my code is working completely, there are some flaws; when you try to generate two patterns in the same canvas, sometimes it doesn't work. To be completely honest, it had been a problem since I implemented anything in the first place and I sincerely apologize for not having a fix to this problem, any advice would be appreciated!
 
 # Possible Upcoming Features
 
