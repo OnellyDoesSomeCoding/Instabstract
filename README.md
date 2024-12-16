@@ -15,7 +15,7 @@ This is the start of my project, Instabstract with 3 options to pick from. Imagi
 
 The program is aim to revolutionize the "modern art" industry by being able to create abstract pieces of art by just simple buttons. The expected outputs would be a finished picture, created by turtle, and consisting of many shapes and colors. To use the program, just press keys on your keyboard, such as; R key for a random pattern to be generated, using your choice of colors and shapes.
 
-Here is my YouTube Link to the demo; ![Demo](https://youtu.be/Whmd-w7tXQk)
+Here is my YouTube Link to the demo; https://youtu.be/Whmd-w7tXQk
 
 # Project Design
 
