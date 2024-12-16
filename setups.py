@@ -74,7 +74,7 @@ def get_parameter(item: str):
         size = int(input(f'''> How big do you want your {item} to be? 0 for random. \
         (Should be about 10 to 60)
         Answer : '''))
-        if size >= 0:
+        if size < 0:
             print("[!] Please provide a suitable answer.")
         else:
             break
