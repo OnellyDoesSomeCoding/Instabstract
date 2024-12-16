@@ -1,4 +1,4 @@
-![UML]((https://cdn.discordapp.com/attachments/614718695452966934/1318192317244379257/image.png?ex=67616dc3&is=67601c43&hm=5ba07e01bf7c61331876a17ea95a177657d7c1ee4f28f970b9ec36d3fc4c2b2b&))
+![UML](uml_instabstract.png)
 # UML For Instabstract
 
 Instabstract is an Object Oriented Program that aims to create "modern art," If you've seen the internet recently, modern art has been filled to the brim with slop content, for example: Concetto spaziale, Attesse by Lucio Fontana, selling at a peak of 1.2 million US Dollar, which to a normal person, is extremely absurb and nonsensical. So, I had a thought, if these so-called artist could do it, how come--a normal person like me--couldn't.
